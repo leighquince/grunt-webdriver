@@ -29,7 +29,7 @@
     "test": "grunt test --debug"
   },
   "dependencies": {
-    "dargs": "christian-bromann/dargs",
+    "dargs": "*",
     "deepmerge": "^0.2.7"
   },
   "devDependencies": {
